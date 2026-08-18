@@ -56,7 +56,7 @@ pip install pandas requests matplotlib
 python remote_ok.py
 
 # Parte 2 — Análisis (genera remoteok_analisis.png)
-python analisis_balon_de_oro.py
+python analisis_skills_remote_ok.py
 ```
 
 ---

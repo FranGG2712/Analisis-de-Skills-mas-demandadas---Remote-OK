@@ -14,8 +14,7 @@ plt.title('Skills más demandadas\nRemote OK',loc='left')
 plt.ylabel("Skill")
 
 #Guardar como PNG
-plt.savefig('remoteok_analisis.png')
+plt.savefig('remoteok_analisis.png', bbox_inches='tight', dpi=150)
 
 #Esta línea es opcional si estas en un archivo ipynb (notebook)
 plt.show()
-

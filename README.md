@@ -19,6 +19,8 @@ Analizo las skills más demandadas y genero un gráfico de barras (remoteok_anal
 
 **Una aclaración:** los tags de RemoteOK son auto-asignados y tienden a sobre-aplicarse (un mismo aviso puede tener 20+ etiquetas, algunas poco relacionadas con el puesto real). Por eso estos conteos son una aproximación de la demanda, no una medición exacta. Aun así, la tendencia —predominio de roles no técnicos— es lo bastante marcada como para ser significativa.
 
+![Análisis Skills](remoteok_analisis.png)
+
 Fuentes: 
   https://www.cvmaker.com/blog/career/top-remote-jobs
   Remote Ok: https://remoteok.com

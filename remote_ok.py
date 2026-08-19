@@ -21,7 +21,7 @@ except Exception as e:
     sys.exit(1) 
 
 
-for empleo in empleos[1:]:
+for empleo in empleos[1:]: #saltea el primer item (un aviso legal)
     try:        
         pos = empleo.get('position')
         com = empleo.get('company')
